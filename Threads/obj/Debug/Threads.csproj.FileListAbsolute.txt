@@ -1,0 +1,6 @@
+C:\Users\donat\RiderProjects\Threads\Threads\bin\Debug\Threads.exe
+C:\Users\donat\RiderProjects\Threads\Threads\bin\Debug\Threads.pdb
+C:\Users\donat\RiderProjects\Threads\Threads\obj\Debug\Threads.csprojAssemblyReference.cache
+C:\Users\donat\RiderProjects\Threads\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+C:\Users\donat\RiderProjects\Threads\Threads\obj\Debug\Threads.exe
+C:\Users\donat\RiderProjects\Threads\Threads\obj\Debug\Threads.pdb
